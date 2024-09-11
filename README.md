@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+To improve this project I would give the menu items a hover element. When you hover over each menu item it would give you a list of the all the ingredients and a small picture would pop up to show you what the item looks like.
