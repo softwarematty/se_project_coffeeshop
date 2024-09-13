@@ -16,6 +16,8 @@
   margin: 8px 0 32px;
   border: 1px solid #838383;
   border-radius: 4px;
+  font-size: 16px;
+  line-height: 30px;
 }
 
 .form__button {
@@ -30,6 +32,7 @@
   font-size: 16px;
   line-height: 20px;
   color: #fff;
+  background-color: #1878dc;
 }
 
 .form__button:hover {
